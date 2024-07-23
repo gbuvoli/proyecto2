@@ -23,4 +23,7 @@
 
     - Estimar el "momento óptimo" para la identificación de estudiantes en riesgo de bajo rendimiento en las pruebas SABER PRO, buscando un equilibrio entre la precisión del modelo predictivo y la oportunidad para la intervención temprana. 
 
+4. **Propuesta general de intervención**
+    - Proponer de manera general diferentes estrategias de intervención a los estudiantes identificados por el modelo a partir de sus características particulares teniendo en cuenta los factores relevantes.
+
 

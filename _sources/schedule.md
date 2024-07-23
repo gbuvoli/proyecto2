@@ -48,7 +48,7 @@
 
     - Elaboración de recomendaciones basadas en los hallazgos.
 
-7. **Diciembre 2024: Defensa de Tesis**
+7. **Finales de Noviembre 2024: Defensa de Tesis**
 
     - Preparación de la presentación de defensa.
 
